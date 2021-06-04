@@ -63,7 +63,7 @@ def main():
         return
 
 
-    f = open('exp2.c','r')
+    f = open('input.c','r')
 
     i = f.read()
 
